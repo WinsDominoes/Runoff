@@ -1,0 +1,6 @@
+data/net.winscloud.Runoff.desktop.in
+data/net.winscloud.Runoff.metainfo.xml.in
+data/net.winscloud.Runoff.gschema.xml
+src/main.c
+src/runoff-window.c
+src/runoff-window.ui
