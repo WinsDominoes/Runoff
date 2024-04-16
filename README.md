@@ -1,3 +1,3 @@
-# runoff
+# Runoff
 
-A description of this project.
+A Libadwaita app for managing startup applications. 
